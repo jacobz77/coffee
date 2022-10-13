@@ -1,0 +1,219 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">);
+
+#a5 {
+    height: 500px;
+    width: 100%;
+    background-image: url(./images/co1.jpg);
+    background-size: cover;
+    padding-top: 100px;
+}
+
+body {
+    background-color: rgb(24, 21, 21);
+}
+
+a:visited {
+    color: rgb(248, 241, 241);
+}
+
+#a1 {
+    padding-top: 10px;
+    word-spacing: 22px;
+    font-family: 'Bungee Spice', cursive;
+    padding-left: 470px;
+    font-size: 20px;
+}
+
+#a3 {
+    background-color: brown;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    font-size: 22px;
+    font-family: 'Bungee Spice', cursive;
+
+}
+
+#a3:hover {
+    background-color: white;
+    color: black;
+}
+
+#a7 {
+    color: brown;
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 10px;
+    padding-left: 50px;
+    font-size: 70px;
+}
+
+#a2 {
+    text-align: start;
+    padding-right: 600px;
+    font-size: 23px;
+    padding-left: 20px;
+    color: brown;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#a4 {
+    background-color: rgb(192, 192, 36);
+    height: 50px;
+    border-radius: 20px;
+    font-size: 26px;
+    margin-left: 20px;
+    width: 180px;
+    font-family: 'Bungee Spice', cursive;
+
+}
+
+#a4:hover {
+    background-color: rgb(154, 23, 23);
+    color: white;
+}
+
+#a6 {
+    height: 100px;
+    background-color: rgb(140, 95, 11);
+    position: fixed;
+    width: 99.1%;
+}
+
+
+.row {
+    height: 700px;
+    background-color: rgb(206, 174, 47);
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 30px;
+    position: relative;
+}
+
+.col {
+    height: 400px;
+    width: 300px;
+    margin-top: 150px;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.col-1 {
+    background-color: aquamarine;
+    left: 100px;
+
+}
+
+.col-2 {
+    background-color: rgb(59, 59, 20);
+    left: 450px;
+}
+
+.col-3 {
+    background-color: black;
+    left: 1200px;
+}
+
+.col-4 {
+    background-color: aqua;
+    left: 830px;
+}
+
+#a8 {
+    font-size: 40px;
+    color: rgb(36, 33, 33);
+    font-family: 'Bungee Spice', cursive;
+    padding-left: 550px;
+    margin-right: 500px;
+}
+
+#a9 {
+    padding-top: 150px;
+    padding-right: 400px;
+}
+
+#a10 {
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.row1 {
+    height: 700px;
+    justify-content: space-evenly;
+}
+
+.col-5 {
+    left: 600px;
+    background-color: rgb(62, 57, 66);
+    margin-top: 50px;
+
+}
+
+#a11 {
+    height: 60px;
+    margin-top: 600px;
+    margin-right: 500px;
+    border-radius: 20px;
+}
+
+#a12 {
+    height: 400px;
+    width: 400px;
+}
+
+.col-6 {
+    left: 1100px;
+    margin-top: 50px;
+
+}
+
+.col-7 {
+    left: 100px;
+    margin-top: 50px;
+}
+
+#a13 {
+    margin-top: 30px;
+    color: white;
+    margin-left: 700px;
+    font-size: 40px;
+    font-family: 'Bungee Spice', cursive;
+
+}
+
+#a14 {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Bungee Spice', cursive;
+}
+
+#a15 {
+    height: 400px;
+    background-color: gray;
+    width: 100%;
+}
+
+#a16 {
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 25px;
+    font-family: 'Bungee Spice', cursive;
+
+}
+
+#a17 {
+    padding-left: 50px;
+    font-size: 18px;
+}
+
+#a18 {
+    padding-left: 50px;
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 20px;
+}
+
+a {
+    padding-left: 40px;
+    font-size: 30px;
+}
